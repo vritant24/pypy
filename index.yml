@@ -2,3 +2,5 @@ id: pypy
 title: Sample Course
 level: beginner
 description: If you’re looking for a course on something, you're here
+units:
+  - unit1/index.yml
